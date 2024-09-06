@@ -1,0 +1,199 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+body {
+  
+  width: 100%;
+}
+.header{
+  background-color: #1A4ADC;
+}
+.navbar {
+  margin-top: 0;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-bottom: 10px;
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  color: white;
+}
+
+.navbar-one{
+  border-bottom: 1px solid #333;
+  padding-bottom: 20px;
+  
+
+}
+
+
+.logo {
+  font-size: 30;
+  font-weight: 20;
+  margin-left: 20px;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  color: white;
+  margin-right: 30px;
+  margin-top: 15px;
+}
+
+li a {
+  margin-right: 10px;
+  text-decoration: none;
+
+  margin-left: 50px;
+  word-spacing: 10px;
+}
+
+.first-button {
+  color: white;
+  background-color: blue;
+  margin-right: 20px;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 20px;
+  border: #1A4ADC;
+  margin-top: 15px;
+}
+
+hr{
+    background-color: #333;
+    
+}
+
+.container {
+  place-content: center;
+  text-align: center;
+  position: absolute;
+  top: 20%;
+  bottom: 35%;
+  width: 95%;
+}
+
+.first-section {
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 90px;
+  color: #fff;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.second-section{
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+  margin-bottom: 40px;
+  margin-left: 24px;
+  text-align: center ;
+}
+hr{
+  border: 5px grey;
+  width:50%;
+}
+/* .second-container{
+
+} */
+
+.second-button{
+  margin-top: 15px;
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: blue;
+    word-spacing: 2px;
+}
+
+.third-button{
+  margin-top: 15px;
+    color: white;
+    background-color: rgba(0, 0, 255, 0.342);
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: rgba(0, 0, 255, 0.342);
+}
+
+.macbook{
+  margin-left: 100px;
+  margin-top: 400px;
+  
+}
+
+.Nation{
+  background-color: #fff;
+  padding: 100px;
+}
+
+.about{
+  color: blue;
+  margin-top: 20px;
+}
+
+.school{
+  font-size: 35px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.service{
+  font-size: 15px;
+  color: #00000071;
+  text-align: center;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.smart{
+  background-color: #fff;
+  margin-left: 30px;
+}
+
+.features{
+  align-content: center;
+  margin-right: 10px;
+}
+
+.con-one{
+  margin-right: 10px;
+}
+
+.con-two{
+  margin-left: 45px;
+  margin-top: 8px;
+}
+
+.con-four{
+  margin-left: 45px;
+}
+
+.con-six{
+  margin-left: 45px;
+
+}
+.feature-section{
+  width: 100%;
+  overflow: hidden;
+  word-wrap: break-word;
+}
+
+.landing-page{      
+  align-content: center;
+  margin-left: 50px;
+}
+
+.Footer{
+  margin-top: -20px;
+  margin-right: 40px;
+  align-content: center;
+}
